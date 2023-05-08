@@ -1,1 +1,1 @@
-FROM ubuntu:focal-20.04
+FROM renovate:34.74.1
