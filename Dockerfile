@@ -1,1 +1,1 @@
-FROM whitesource/renovate:4.1.0
+FROM whitesource/renovate:4.0.0
