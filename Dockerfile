@@ -1,1 +1,1 @@
-FROM artifacts.msap.io/mulesoft/core-paas-base-image-ubuntu:v5.2.39
+FROM whitesource/renovate:4.1.0
