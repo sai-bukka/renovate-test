@@ -1,1 +1,1 @@
-FROM whitesource/renovate:4.0.0
+FROM whitesource/renovate:4.1.0@sha256:69331aaaa62f1e03fb637a24dfefc49c7d7c517cce747d1ac76c780d0c79fd0b
